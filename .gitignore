@@ -1,0 +1,15 @@
+# log files #
+*.log 
+log/
+
+# OS Files #
+*.swp
+
+# web root #
+www/
+
+# nginx cache #
+nginx_cache/
+
+# ssl files
+ssl/
